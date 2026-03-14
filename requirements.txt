@@ -1,0 +1,12 @@
+selenium>=4.0.0
+webdriver-manager>=4.0.0
+dash==2.17.1
+streamlit>=1.28.0
+plotly==5.22.0
+pytest==8.1.1
+pandas==2.2.3
+sqlalchemy==2.0.36
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+nbstripout==0.8.1
+gunicorn==25.1.0
